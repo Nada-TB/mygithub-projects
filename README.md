@@ -4,18 +4,18 @@ Welcome to my GitHub repository! Here you'll find a diverse collection of projec
 
 ## 📚 Table of Contents
 
-1. ### **[Full-Stack Applications](#full-stack-applications)** 
-2. ### **[Games](#games)**
-3. ### **[Creative Coding Projects](#creative-coding-projects)**
-4. ### **[Automation Scripts](#automation-scripts)**
-5. ### **[React Projects](#react-projects)**
-6. ### **[Node.js Projects](#nodejs-projects)**
-7. ### **[Template-Based Web Design](#template-based-web-design)**
-8. ### **[Interactive Learning Tools](#interactive-learning-tools)**
+1. ## **[Full-Stack Applications](#full-stack-applications)** 
+2. ## **[Games](#games)**
+3. ## **[Creative Coding Projects](#creative-coding-projects)**
+4. ## **[Automation Scripts](#automation-scripts)**
+5. ## **[React Projects](#react-projects)**
+6. ## **[Node.js Projects](#nodejs-projects)**
+7. ## **[Template-Based Web Design](#template-based-web-design)**
+8. ## **[Interactive Learning Tools](#interactive-learning-tools)**
 
 ---
 
-# 💻 Full-Stack Applications
+## 💻 Full-Stack Applications
 
 Explore my full-stack applications, where I’ve integrated HTML, CSS, JavaScript, PHP, and MySQL to create robust, interactive websites and systems.
 
