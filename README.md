@@ -15,7 +15,7 @@ Welcome to my GitHub repository! Here you'll find a diverse collection of projec
 
 ---
 
-# 💻 Full-Stack Applications
+## 💻 Full-Stack Applications
 
 Explore my full-stack applications, where I’ve integrated HTML, CSS, JavaScript, PHP, and MySQL to create robust, interactive websites and systems.
 
@@ -33,7 +33,7 @@ Weather Today is a web application that allows users to check the current weathe
 
 ---
 
-# 🎮 Games
+## 🎮 Games
 
 Dive into my game development projects, where I've used HTML, CSS, and JavaScript to create engaging and interactive gaming experiences.
 
@@ -120,7 +120,6 @@ Explore educational projects designed to facilitate learning through interactive
 This project is an interactive web tutorial designed to help users understand the box-shadow property in CSS. By adjusting various parameters like offset, blur, spread, and color, users can see how different values affect the shadow of a box element in real-time
 
 ---
-
 
 ## 📫 Contact
 
