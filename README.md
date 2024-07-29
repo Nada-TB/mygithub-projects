@@ -33,7 +33,7 @@ Weather Today is a web application that allows users to check the current weathe
 
 ---
 
-## 🎮 Games
+# 🎮 Games
 
 Dive into my game development projects, where I've used HTML, CSS, and JavaScript to create engaging and interactive gaming experiences.
 
