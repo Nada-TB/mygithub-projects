@@ -15,7 +15,7 @@ Welcome to my GitHub repository! Here you'll find a diverse collection of projec
 
 ---
 
-## 💻 Full-Stack-applications
+## 💻 Full-Stack applications
 
 Explore my full-stack applications, where I’ve integrated HTML, CSS, JavaScript, PHP, and MySQL to create robust, interactive websites and systems.
 
