@@ -4,7 +4,7 @@ Welcome to my GitHub repository! Here you'll find a diverse collection of projec
 
 ## 📚 Table of Contents
 
-1. **[Full-Stack Applications](#💻full-stack-applications)**
+1. **[Full-Stack Applications](#full-stack-applications)**
 2. **[Games](#games)**
 3. **[Creative Coding Projects](#creative-coding-projects)**
 4. **[Automation Scripts](#automation-scripts)**
@@ -15,7 +15,7 @@ Welcome to my GitHub repository! Here you'll find a diverse collection of projec
 
 ---
 
-# 💻  Full-Stack Applications
+# Full-Stack Applications
 
 Explore my full-stack applications, where I’ve integrated HTML, CSS, JavaScript, PHP, and MySQL to create robust, interactive websites and systems.
 
