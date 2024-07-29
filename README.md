@@ -5,7 +5,7 @@ Welcome to my GitHub repository! Here you'll find a diverse collection of projec
 ## 📚 Table of Contents
 
 1. **[Full-Stack Applications](#full-stack-applications) :** Projects combining front-end and back-end technologies.
-2. **[Games](#games)**: Interactive games created using web technologies.
+2. **[Games](#Games)**: Interactive games created using web technologies.
 3. **[Creative Coding Projects](#creative-coding-projects)**
 4. **[Automation Scripts](#automation-scripts)**
 5. **[React Projects](#react-projects)**
@@ -15,7 +15,7 @@ Welcome to my GitHub repository! Here you'll find a diverse collection of projec
 
 ---
 
-## 💻 Full-Stack Applications
+## 💻 Full-Stack-applications
 
 Explore my full-stack applications, where I’ve integrated HTML, CSS, JavaScript, PHP, and MySQL to create robust, interactive websites and systems.
 
