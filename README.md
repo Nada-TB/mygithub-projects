@@ -89,6 +89,9 @@ a single-page React application that fetches and displays random contact informa
 ### 📶 [Multi-Page Website Template with React Router](https://github.com/Nada-TB/Multi-Page-Website-Template-with-React-Router)
 Created a basic template for a multi-page website using React.js and the React Router module. The website features three main pages: Home, About, and Contact. Implemented React Router to facilitate navigation between pages and ensure a seamless user experience.
 
+### ✖️ [Tic Tac Toe Game Development with React.js](https://github.com/Nada-TB/Tic-Tac-Toe-Game-Development-with-React.js)
+Developed a dynamic Tic Tac Toe game using React.js, offering an engaging gaming experience with interactive gameplay, intuitive user interface, and strategic game history tracking.
+
 ---
 
 ## 🌐Node.js Projects
