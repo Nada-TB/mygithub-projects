@@ -10,7 +10,7 @@ Welcome to my GitHub repository! Here you'll find a diverse collection of projec
 4. **[Automation Scripts](#automation-scripts)**
 5. **[React Projects](#react-projects)**
 6. **[Node.js Projects](#nodejs-projects)**
-7. **[Template Based Web Design](#template-based-web-design)**
+7. **[Template Based Design](#template-based-design)**
 8. **[Interactive Learning Tools](#interactive-learning-tools)**
 
 ---
@@ -79,7 +79,7 @@ PHP script that allows you to dynamically create a README.md file based on a tem
 
 ---
 
-## ⚛️React Projects
+## ⚛React Projects
 
 Discover my React projects, where I’ve leveraged React to build dynamic, responsive user interfaces and single-page applications.
 
@@ -103,7 +103,7 @@ A backend service for managing products, built with Node.js and Express.js. This
 
 ---
 
-## 🖼️Template Based Design 
+## 🖼Template Based Design 
 
 Explore projects where a design template is integrated with HTML and CSS, enhanced with JavaScript.
 
